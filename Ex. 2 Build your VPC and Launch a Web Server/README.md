@@ -2,10 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
-
+* **Name**: SRILAKSHMI BH
+* **Register Number**: 212224100057
+* **Date of Submission**: 13/02/26
 ---
 
 ## Objective
@@ -87,11 +86,10 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Create Your VPC
+2. Create Additional Subnets
+3. Create a VPC Security Group
+4. Launch a Web Server Instance
 
 ---
 
@@ -99,19 +97,22 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1032" height="324" alt="image" src="https://github.com/user-attachments/assets/e48844e1-71a0-4ebb-ab60-60604a1f8872" />
+
 
 ---
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="551" height="535" alt="image" src="https://github.com/user-attachments/assets/4019022d-2674-44cb-a979-5914e5306c5c" />
+
 
 ---
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="765" height="397" alt="image" src="https://github.com/user-attachments/assets/5fda1619-349f-4899-9a1b-79eeb78fdefe" />
+
 
 ---
 
