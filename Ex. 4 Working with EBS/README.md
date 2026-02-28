@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SRILAKSHMI BH
+* **Register Number**: 212224100057
+* **Date of Submission**: 28/02/26
 
 ---
 
@@ -80,31 +80,31 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
+1. Task 1: Explore Amazon EBS
+2. Task 2: Create an EBS Volume
+3. Task 3: Attach EBS Volume to EC2 Instance
+4. Task 4: Format the EBS Volume
+5. Task 4: Format the EBS Volume
 ---
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+<img width="938" height="1020" alt="Screenshot 2026-02-27 110514" src="https://github.com/user-attachments/assets/2419ef1a-360e-49a3-8aa5-55f5f28d87b3" />
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="940" height="922" alt="Screenshot 2026-02-27 111555" src="https://github.com/user-attachments/assets/ebe361d2-d142-4211-9076-58146f098d8a" />
+
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="973" height="876" alt="Screenshot 2026-02-27 111937" src="https://github.com/user-attachments/assets/df01a8e7-efd9-44f1-acee-119bfbe8be76" />
 
 ---
 
