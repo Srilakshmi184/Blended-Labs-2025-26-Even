@@ -2,21 +2,21 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: SRILAKSHMI BH
+* **Register Number**: 212224100057
+* **Date of Submission**: 09/03/2026
 
 ---
 
 ## Objective
 
-The objective of this experiment is to understand how Amazon Elastic Block Store (EBS) provides persistent block-level storage for EC2 instances. This lab focuses on creating and attaching an EBS volume, formatting and mounting it on an EC2 instance, storing data, and verifying data persistence after instance reboot.
+The objective of this experiment is to understand how Amazon Elastic Block Store (EBS) provides persistent block-level storage for EC2 instances. This lab focuses on creating and attaching an EBS volum
+* Basic understanding of cloud computed, formatting and mounting it on an EC2 instance, storing data, and verifying data persistence after instance reboot.
 
 ---
 
 ## Prerequisites
-
-* Basic understanding of cloud computing concepts
+ting concepts
 * AWS account or AWS Academy Lab access
 * An existing EC2 instance (Amazon Linux 2 preferred)
 * Basic knowledge of Linux commands
@@ -76,35 +76,26 @@ Reboot the EC2 instance and verify that the data stored in the EBS volume is sti
 
 ---
 
-## Workflow (Student Explanation)
-
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
-
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EBS Volume Created
 
-(Insert Screenshot Here)
+<img width="979" height="580" alt="Screenshot 2026-02-27 110856" src="https://github.com/user-attachments/assets/ac1cabc0-3c86-45d1-943b-6d65525f3999" />
+
 
 ---
 
 ### Screenshot 2: EBS Volume Attached to EC2
 
-(Insert Screenshot Here)
+<img width="940" height="922" alt="Screenshot 2026-02-27 111555" src="https://github.com/user-attachments/assets/b3dfbfee-eeff-4969-ae8b-59589a5dae4c" />
+
 
 ---
 
 ### Screenshot 3: Mounted Volume with Data
 
-(Insert Screenshot Here)
+<img width="973" height="876" alt="Screenshot 2026-02-27 111937" src="https://github.com/user-attachments/assets/7733d309-acd0-46ac-868d-1fcb1ca9c48e" />
+
 
 ---
 
