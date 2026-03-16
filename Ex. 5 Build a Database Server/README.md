@@ -84,19 +84,19 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-
+![alt text](image.png)
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-
+![alt text](image-1.png)
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+![alt text](image-2.png)
 
 ---
 
