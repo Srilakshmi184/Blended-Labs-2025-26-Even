@@ -1,9 +1,9 @@
 # Lab 6 – Scale and Load Balance Your Architecture
-
+## NAME-SRILAKSHMI BH
+## REG.NO-212224100057
 ## Title
 
 Scale and Load Balance Your Architecture
-Author : your name   Reg no : yours   Date :
 
 ---
 
@@ -64,16 +64,8 @@ Students test the setup by generating traffic and observing automatic scaling an
 
 ---
 
-## Workflow (To be filled by Student)
-
-Describe step-by-step how you performed this experiment in your own words.
-
----
 
 ## Output Screenshots 
-
-
----
 
 
 ## Result
